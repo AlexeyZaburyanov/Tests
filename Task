@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("Don't worry, be happy");
+return 0;
+}
